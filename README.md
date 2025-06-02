@@ -15,7 +15,6 @@
 - 🔍 Looking for opportunities to collaborate on open source or front-end projects.
 
 ---
-
 ### 🛠️ Tech Stack
 
 <p align="left">
@@ -28,14 +27,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
  
-  ---
-
-### 📫 Contact Me
-
-- LinkedIn: [linkedin.com/in/tu-nombre-de-usuario](https://www.linkedin.com/in/tu-nombre-de-usuario)  
-- Email: tuemail@gmail.com  
-- Portfolio: [tuportafolio.com](https://tuportafolio.com) (si tienes uno)
-
 ---
 
 
