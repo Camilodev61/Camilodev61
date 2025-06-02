@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Camilo</h1>
 <p align="center">
-  <img src="assets/banner.png" alt="Banner de presentación" width="1000" />
+  <img src="Banner_Github.png" alt="Banner de presentación" width="1000" />
 </p>
 
 <p align="center">
